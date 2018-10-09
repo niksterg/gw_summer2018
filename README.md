@@ -24,7 +24,7 @@
 
 **Ch. MOUSTAKIDIS**
 
-[**S. NAMPALLIWAR**](https://github.com/niksterg/gw_summer2018/raw/master/test.pdf)
+[**S. NAMPALLIWAR**](https://github.com/niksterg/gw_summer2018/raw/master/Nampalliwar.pdf)
 
 **Th. SOULTANIS**
 
@@ -58,4 +58,3 @@
 
 **A. BAUSWEIN**
 
-<span style="color:red">some **This is Red Bold.** text</span>
