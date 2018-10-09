@@ -1,7 +1,7 @@
 ## Talks and Teaching Material
 
 ### Monday, October 8th, 2018
-<span style="color:blue">Monday, October 8th, 2018</span>
+###<span style="color:blue">Monday, October 8th, 2018</span>
 
 **K. KOKKOTAS**
 
