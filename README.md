@@ -1,6 +1,5 @@
 ## Talks and Teaching Material
 
-### Monday, October 8th, 2018
 ### <span style="color:blue">Monday, October 8th, 2018</span>
 
 **K. KOKKOTAS**
@@ -15,7 +14,7 @@
 
 **P. IOSIF**
 
-### Tuesday, October 9th, 2018
+### <span style="color:blue">Tuesday, October 9th, 2018</span>
 
 **Th. APOSTOLATOS**
 
@@ -29,7 +28,7 @@
 
 **Th. SOULTANIS**
 
-### Wednesday, October 10th, 2018
+### <span style="color:blue">Wednesday, October 10th, 2018</span>
 
 **N. Stergioulas**
 
@@ -37,7 +36,7 @@
 
 **K. CHATZIIOANNOU**
 
-### Thursday, October 11th, 2018
+### <span style="color:blue">Thursday, October 11th, 2018</span>
 
 **P. AMARO-SEOANE**
 
@@ -51,7 +50,7 @@
 
 **G. LIOUTAS**
 
-### Friday, October 12th, 2018
+### <span style="color:blue">MFriday, October 12th, 2018</span>
 
 **M. GABLER**
 
