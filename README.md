@@ -2,7 +2,7 @@
 
 ### Monday, October 8th, 2018
 
-[**K. KOKKOTAS**](https://github.com/niksterg/gw_summer2018/raw/master/test.pdf)
+**K. KOKKOTAS**
 
 **N. STERGIOULAS**
 
@@ -24,7 +24,7 @@
 
 **Ch. MOUSTAKIDIS**
 
-**S. NAMPALLIWAR**
+[**S. NAMPALLIWAR**](https://github.com/niksterg/gw_summer2018/raw/master/test.pdf)
 
 **Th. SOULTANIS**
 
@@ -58,3 +58,4 @@
 
 **A. BAUSWEIN**
 
+<span style="color:red">some **This is Red Bold.** text</span>
