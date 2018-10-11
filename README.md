@@ -1,10 +1,10 @@
 ## Talks and Teaching Material
 
-### <span style="color:blue">Monday, October 8th, 2018</span>
+### <span style="color:green">Monday, October 8th, 2018</span>
 
 **K. KOKKOTAS**
 
-**N. STERGIOULAS**
+[**<span style="color:blue">N. STERGIOULAS**</span>](https://github.com/niksterg/gw_summer2018/blob/master/Stergioulas-1.pdf)
 
 **G. LALAZISIS**
 
@@ -14,7 +14,7 @@
 
 **P. IOSIF**
 
-### <span style="color:blue">Tuesday, October 9th, 2018</span>
+### <span style="color:green">Tuesday, October 9th, 2018</span>
 
 **Th. APOSTOLATOS**
 
@@ -28,7 +28,7 @@
 
 **Th. SOULTANIS**
 
-### <span style="color:blue">Wednesday, October 10th, 2018</span>
+### <span style="color:green">Wednesday, October 10th, 2018</span>
 
 **N. Stergioulas**
 
@@ -36,7 +36,7 @@
 
 **K. CHATZIIOANNOU**
 
-### <span style="color:blue">Thursday, October 11th, 2018</span>
+### <span style="color:green">Thursday, October 11th, 2018</span>
 
 **P. AMARO-SEOANE**
 
