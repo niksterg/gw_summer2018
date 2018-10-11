@@ -40,7 +40,7 @@ K. CHATZIIOANNOU
 
 P. AMARO-SEOANE
 
-[<span style="color:blue">A. BAUSWEIN</span>](https://github.com/niksterg/gw_summer2018/raw/master/Bauswein.pdf)
+[<span style="color:blue">A. BAUSWEIN</span>](https://github.com/niksterg/gw_summer2018/raw/master/Bauswein-1.pdf)
 
 K. CHATZIIOANNOU
 
