@@ -6,27 +6,27 @@
 
 [<span style="color:blue">N. STERGIOULAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Stergioulas-1.pdf)
 
-<span style="color:blue">G. LALAZISIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Lalazisis.pdf)
+[<span style="color:blue">G. LALAZISIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Lalazisis.pdf)
 
 Th. GAITANOS
 
 S. VOELKEL
 
-<span style="color:blue">P. IOSIF</span>](https://github.com/niksterg/gw_summer2018/raw/master/Iosif.pdf)
+[<span style="color:blue">P. IOSIF</span>](https://github.com/niksterg/gw_summer2018/raw/master/Iosif.pdf)
 
 ### <span style="color:green">Tuesday, October 9th, 2018</span>
 
-<span style="color:blue">Th. APOSTOLATOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1.pdf)
+[<span style="color:blue">Th. APOSTOLATOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1.pdf)
 
 P. AMARO-SEOANE
 
-<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1.pdf)
+[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1.pdf)
 
-<span style="color:blue">Ch. MOUSTAKIDIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Moustakidis.pdf)
+[<span style="color:blue">Ch. MOUSTAKIDIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Moustakidis.pdf)
 
-<span style="color:blue">S. NAMPALLIWAR</span>](https://github.com/niksterg/gw_summer2018/raw/master/Nampalliwar.pdf)
+[<span style="color:blue">S. NAMPALLIWAR</span>](https://github.com/niksterg/gw_summer2018/raw/master/Nampalliwar.pdf)
 
-<span style="color:blue">Th. Soultanis</span>](https://github.com/niksterg/gw_summer2018/raw/master/Soultanis.pdf)
+[<span style="color:blue">Th. Soultanis</span>](https://github.com/niksterg/gw_summer2018/raw/master/Soultanis.pdf)
 
 ### <span style="color:green">Wednesday, October 10th, 2018</span>
 
