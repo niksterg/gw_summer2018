@@ -4,7 +4,7 @@
 
 ### <span style="color:green">Monday, October 8th, 2018</span>
 
-**K. KOKKOTAS**
+K. KOKKOTAS
 
 [<span style="color:blue">N. STERGIOULAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Stergioulas-1.pdf)
 
