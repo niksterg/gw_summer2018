@@ -26,7 +26,7 @@ P. AMARO-SEOANE
 
 [<span style="color:blue">S. NAMPALLIWAR</span>](https://github.com/niksterg/gw_summer2018/raw/master/Nampalliwar.pdf)
 
-[<span style="color:blue">Th. Soultanis</span>](https://github.com/niksterg/gw_summer2018/raw/master/Soultanis.pdf)
+[<span style="color:blue">Th. Soultanis</span>](https://github.com/niksterg/gw_summer2018/raw/master/Soultanis.pdf) + [<span style="color:blue">Notebooks and ET files</span>](https://bitbucket.org/thsoulta/et_thessaloniki/src)
 
 ### <span style="color:green">Wednesday, October 10th, 2018</span>
 
@@ -52,7 +52,7 @@ A. COATES
 
 ### <span style="color:blue">MFriday, October 12th, 2018</span>
 
-[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler.pdf)
+[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-2.pdf)
 
 K. KOKKOTAS
 
