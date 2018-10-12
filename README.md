@@ -34,7 +34,7 @@ P. AMARO-SEOANE
 
 Th. APOSTOLATOS
 
-K. CHATZIIOANNOU
+[<span style="color:blue">K. CHATZIIOANNOU</span>](https://github.com/niksterg/gw_summer2018/raw/master/Chatziioannou-1.pdf)
 
 ### <span style="color:green">Thursday, October 11th, 2018</span>
 
@@ -42,13 +42,13 @@ P. AMARO-SEOANE
 
 [<span style="color:blue">A. BAUSWEIN</span>](https://github.com/niksterg/gw_summer2018/raw/master/Bauswein-1.pdf)
 
-K. CHATZIIOANNOU
+[<span style="color:blue">K. CHATZIIOANNOU</span>](https://github.com/niksterg/gw_summer2018/raw/master/Chatziioannou-2.pdf)
 
-K. CHATZIIOANNOU
+[<span style="color:blue">K. CHATZIIOANNOU</span>](https://github.com/niksterg/gw_summer2018/raw/master/Chatziioannou-3.pdf)
 
 A. COATES
 
-G. LIOUTAS
+[<span style="color:blue">G. LIOUTAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Lioutas.pdf)
 
 ### <span style="color:blue">MFriday, October 12th, 2018</span>
 
