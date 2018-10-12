@@ -1,5 +1,7 @@
 ## Talks and Teaching Material
 
+(some talks include bibliography and exercises in the main presentation file)
+
 ### <span style="color:green">Monday, October 8th, 2018</span>
 
 **K. KOKKOTAS**
