@@ -8,7 +8,7 @@
 
 [<span style="color:blue">G. LALAZISIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Lalazisis.pdf)
 
-Th. GAITANOS
+[<span style="color:blue">Th. GAITANOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gaitanos.pdf)
 
 S. VOELKEL
 
