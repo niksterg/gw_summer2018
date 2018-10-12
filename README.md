@@ -52,7 +52,7 @@ A. COATES
 
 ### <span style="color:blue">MFriday, October 12th, 2018</span>
 
-M. GABLER
+[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler.pdf)
 
 K. KOKKOTAS
 
