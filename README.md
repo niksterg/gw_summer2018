@@ -18,7 +18,8 @@
 
 ### <span style="color:green">Tuesday, October 9th, 2018</span>
 
-[<span style="color:blue">Th. APOSTOLATOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1.pdf)
+[<span style="color:blue">Th. APOSTOLATOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1.pdf) + [<span style="color:blue">Additional figures</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1b.pdf)
+
 
 P. AMARO-SEOANE
 
