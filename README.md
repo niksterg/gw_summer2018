@@ -20,7 +20,7 @@
 
 P. AMARO-SEOANE
 
-[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1.pdf)
+[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1.pdf) + [<span style="color:blue">Bibliography and exercises</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1b.pdf)
 
 [<span style="color:blue">Ch. MOUSTAKIDIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Moustakidis.pdf)
 
