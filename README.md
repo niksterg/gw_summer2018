@@ -10,7 +10,7 @@
 
 [<span style="color:blue">Th. GAITANOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gaitanos.pdf)
 
-[<span style="color:blue">Th. GAITANOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/S. Voelkel.pdf)
+[<span style="color:blue">S. VOELKEL</span>](https://github.com/niksterg/gw_summer2018/raw/master/S. Voelkel.pdf)
 
 [<span style="color:blue">P. IOSIF</span>](https://github.com/niksterg/gw_summer2018/raw/master/Iosif.pdf)
 
