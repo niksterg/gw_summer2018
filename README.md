@@ -4,7 +4,7 @@
 
 ### <span style="color:green">Monday, October 8th, 2018</span>
 
-K. KOKKOTAS
+[<span style="color:blue">K. KOKKOTAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Kokkotas-1.pdf)
 
 [<span style="color:blue">N. STERGIOULAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Stergioulas-1.pdf)
 
@@ -20,8 +20,7 @@ K. KOKKOTAS
 
 [<span style="color:blue">Th. APOSTOLATOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1.pdf) + [<span style="color:blue">Additional figures</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1b.pdf)
 
-
-P. AMARO-SEOANE
+[<span style="color:blue">P. AMARO-SEOANE</span>](https://github.com/niksterg/gw_summer2018/raw/master/Amaro-Seoane-1.pdf)
 
 [<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1.pdf) + [<span style="color:blue">Bibliography and exercises</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1b.pdf)
 
@@ -41,7 +40,7 @@ P. AMARO-SEOANE
 
 ### <span style="color:green">Thursday, October 11th, 2018</span>
 
-P. AMARO-SEOANE
+[<span style="color:blue">P. AMARO-SEOANE</span>](https://github.com/niksterg/gw_summer2018/raw/master/Amaro-Seoane-2.pdf)
 
 [<span style="color:blue">A. BAUSWEIN</span>](https://github.com/niksterg/gw_summer2018/raw/master/Bauswein-1.pdf)
 
@@ -49,7 +48,7 @@ P. AMARO-SEOANE
 
 [<span style="color:blue">K. CHATZIIOANNOU</span>](https://github.com/niksterg/gw_summer2018/raw/master/Chatziioannou-3.pdf)
 
-A. COATES
+[<span style="color:blue">A. COATES</span>](https://github.com/niksterg/gw_summer2018/raw/master/Coates.pdf)
 
 [<span style="color:blue">G. LIOUTAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Lioutas.pdf)
 
@@ -57,7 +56,8 @@ A. COATES
 
 [<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-2.pdf)
 
-K. KOKKOTAS
+[<span style="color:blue">K. KOKKOTAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Kokkotas-2.pdf)
 
-A. BAUSWEIN
+[<span style="color:blue">A. BAUSWEIN</span>](https://github.com/niksterg/gw_summer2018/raw/master/Bauswein-2.pdf)
+
 
