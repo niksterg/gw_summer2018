@@ -1,8 +1,10 @@
 ## Talks and Teaching Material
 
+(some talks include bibliography and exercises in the main presentation file)
+
 ### <span style="color:green">Monday, October 8th, 2018</span>
 
-**K. KOKKOTAS**
+K. KOKKOTAS
 
 [<span style="color:blue">N. STERGIOULAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Stergioulas-1.pdf)
 
@@ -16,17 +18,18 @@
 
 ### <span style="color:green">Tuesday, October 9th, 2018</span>
 
-[<span style="color:blue">Th. APOSTOLATOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1.pdf)
+[<span style="color:blue">Th. APOSTOLATOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1.pdf) + [<span style="color:blue">Additional figures</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-1b.pdf)
+
 
 P. AMARO-SEOANE
 
-[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1.pdf)
+[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1.pdf) + [<span style="color:blue">Bibliography and exercises</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-1b.pdf)
 
-[<span style="color:blue">Ch. MOUSTAKIDIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Moustakidis.pdf)
+[<span style="color:blue">Ch. MOUSTAKIDIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Moustakidis.pdf) + [<span style="color:blue">Bibliography and exercises</span>](https://github.com/niksterg/gw_summer2018/raw/master/Moustakidis-2.pdf)
 
 [<span style="color:blue">S. NAMPALLIWAR</span>](https://github.com/niksterg/gw_summer2018/raw/master/Nampalliwar.pdf)
 
-[<span style="color:blue">Th. Soultanis</span>](https://github.com/niksterg/gw_summer2018/raw/master/Soultanis.pdf)
+[<span style="color:blue">Th. SOULTANIS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Soultanis.pdf) + [<span style="color:blue">Notebooks and ET files</span>](https://bitbucket.org/thsoulta/et_thessaloniki/src)
 
 ### <span style="color:green">Wednesday, October 10th, 2018</span>
 
@@ -50,9 +53,9 @@ A. COATES
 
 [<span style="color:blue">G. LIOUTAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Lioutas.pdf)
 
-### <span style="color:blue">MFriday, October 12th, 2018</span>
+### <span style="color:green">MFriday, October 12th, 2018</span>
 
-M. GABLER
+[<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-2.pdf)
 
 K. KOKKOTAS
 
