@@ -35,7 +35,7 @@ P. AMARO-SEOANE
 
 [<span style="color:blue">N. STERGIOULAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Stergioulas-2.pdf)
 
-Th. APOSTOLATOS
+[<span style="color:blue">Th. APOSTOLATOS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Apostolatos-2.pdf)
 
 [<span style="color:blue">K. CHATZIIOANNOU</span>](https://github.com/niksterg/gw_summer2018/raw/master/Chatziioannou-1.pdf)
 
