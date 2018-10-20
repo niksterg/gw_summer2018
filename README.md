@@ -52,7 +52,7 @@
 
 [<span style="color:blue">G. LIOUTAS</span>](https://github.com/niksterg/gw_summer2018/raw/master/Lioutas.pdf)
 
-### <span style="color:green">MFriday, October 12th, 2018</span>
+### <span style="color:green">Friday, October 12th, 2018</span>
 
 [<span style="color:blue">M. GABLER</span>](https://github.com/niksterg/gw_summer2018/raw/master/Gabler-2.pdf)
 
